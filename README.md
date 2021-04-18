@@ -1,1 +1,1 @@
-This are all the documents needed for our group project for the seminar "Introduction to Machine Learning".
+This are all the documents needed for our group project for the seminar "Introduction to Machine Learning". Important Note: Download all the files as pdf's may not be displayed by github as they should be.
